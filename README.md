@@ -1,2 +1,5 @@
-# YouTube_Comments_Spam_Detection
-The primary goal of this project is YouTube Comment Spam Detection using two main approaches and check performance using different classifiers and find and create the best model.
+install dependencies
+-> pip install -r requirements.txt
+
+Link to load dataset
+-> https://raw.githubusercontent.com/RutviKanani1008/YouTube_Comments_Spam_Detection/main/5000%20YT%20comments.csv
